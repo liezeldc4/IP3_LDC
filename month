@@ -1,0 +1,2 @@
+date_time,temp_c,dew_point,relative_humidity,wind_speed,visibility,pressure,weather,temp_f
+2012-08-04 15:00:00,32.8,18.8,44,17,24.1,101.39,Clear,91.03999999999999
